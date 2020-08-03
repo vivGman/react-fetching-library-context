@@ -1,0 +1,31 @@
+{
+  "name": "react-fetching-library-context",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivGman/react-fetching-library-context.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivGman/react-fetching-library-context/issues"
+  },
+  "homepage": "https://github.com/vivGman/react-fetching-library-context#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.44",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "react-fetching-library": "^1.7.4"
+  }
+}
